@@ -6,7 +6,7 @@
 - C ✔️
 - C# ✔️
 - DSA in C# 🔎
- Git & GitHub ✔️
+- Git & GitHub ✔️
 - Powershell ❌
 - 💞️ I’m looking to collaborate on ...
 
