@@ -11,6 +11,8 @@
 - 💞️ I’m looking to collaborate on ...
 
 - 📫 How to reach me ...
+📩: kacprzakmarek92@gmail.com
+💬: www.linkedin.com/in/marek-kacprzak-238053218/
 
 
 <!---
