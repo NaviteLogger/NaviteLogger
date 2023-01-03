@@ -3,11 +3,13 @@
 - 👀 I’m interested in ...
 - 
 - 🌱 I’m currently learning:
-- 1. C ✔️
-- 2. C# ✔️
-- 3. DSA in C# 🔎
-- 4. Git & GitHub ✔️
-- 5. Powershell ❌
+- 1. C ✔
+- 2. C# ✔
+- 3. DSA in C# ✔
+- 4. Git & GitHub ✔
+- 5. ASP.NEY 🔎
+- 5. Powershell 🔎
+- 6. SQL 🔎
 - 
 - 💞️ I’m looking to collaborate on ...
 - 
