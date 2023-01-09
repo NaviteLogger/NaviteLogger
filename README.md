@@ -7,7 +7,7 @@
 - 2. C# ✔
 - 3. DSA in C# ✔
 - 4. Git & GitHub ✔
-- 5. ASP.NEY 🔎
+- 5. ASP.NET 🔎
 - 5. Powershell 🔎
 - 6. SQL 🔎
 - 
