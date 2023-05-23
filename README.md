@@ -5,11 +5,13 @@
 - 🌱 I’m currently learning:
 - 1. C ✔
 - 2. C# ✔
-- 3. DSA in C# ✔
-- 4. Git & GitHub ✔
-- 5. ASP.NET 🔎
-- 5. Powershell 🔎
-- 6. SQL 🔎
+- 3. OOP in C# ✔
+- 4. DSA in C# ✔
+- 5. Git & GitHub ✔
+- 6. Unity Game Engine 🔎
+- 7. Powershell 🔎
+- 8. SQL 🔎
+- 9. Excel 🔎
 - 
 - 💞️ I’m looking to collaborate on ...
 - 
