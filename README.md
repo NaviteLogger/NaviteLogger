@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NaviteLogger
 - 
-- 👀 I’m interested in ...
+- 👀 I’m interested in new video game technologies
 - 
 - 🌱 I’m currently learning:
 - 1. C ✔
@@ -13,7 +13,7 @@
 - 8. SQL 🔎
 - 9. Excel 🔎
 - 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on video game projects
 - 
 - 📫 How to reach me:
 - 📩: kacprzakmarek92@gmail.com 
