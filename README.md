@@ -1,17 +1,17 @@
 - 👋 Hi, I’m @NaviteLogger
 - 
-- 👀 I’m interested in new video game technologies
+- 👀 I’m interested in new video game technologies and AI development
 - 
 - 🌱 I’m currently learning:
-- 1. C ✔
-- 2. C# ✔
-- 3. OOP in C# ✔
-- 4. DSA in C# ✔
-- 5. Git & GitHub ✔
-- 6. Unity Game Engine 🔎
-- 7. Powershell 🔎
-- 8. SQL 🔎
-- 9. Excel 🔎
+- 1. C# ✔
+- 2. OOP in C# ✔
+- 3. DSA in C# ✔
+- 4. Git & GitHub ✔
+- 5. Unity Game Engine 🔎
+- 6. Powershell 🔎
+- 7. SQL 🔎
+- 8. Excel 🔎
+- 9. Bash 🔎
 - 
 - 💞️ I’m looking to collaborate on video game projects
 - 
