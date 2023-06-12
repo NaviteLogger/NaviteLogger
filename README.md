@@ -3,15 +3,13 @@
 - 👀 I’m interested in new video game technologies and AI development
 - 
 - 🌱 I’m currently learning:
-- 1. C# ✔
-- 2. OOP in C# ✔
-- 3. DSA in C# ✔
-- 4. Git & GitHub ✔
-- 5. Unity Game Engine 🔎
-- 6. Powershell 🔎
-- 7. SQL 🔎
-- 8. Excel 🔎
-- 9. Bash 🔎
+- 1. C#, OOP in C# and DSA in C# ✔
+- 2. Git & GitHub ✔
+- 3. Unity Game Engine 🔎
+- 4. Powershell 🔎
+- 5. SQL 🔎
+- 6. Excel 🔎
+- 7. Bash 🔎
 - 
 - 💞️ I’m looking to collaborate on video game projects
 - 
