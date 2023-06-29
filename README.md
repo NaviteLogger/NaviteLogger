@@ -9,7 +9,7 @@
 - 4. Powershell 🔎
 - 5. SQL 🔎
 - 6. Excel 🔎
-- 7. Bash 🔎
+- 7. Linux & Bash 🔎
 - 
 - 💞️ I’m looking to collaborate on video game projects
 - 
