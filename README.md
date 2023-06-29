@@ -3,7 +3,7 @@
 - 👀 I’m interested in new video game technologies and AI development
 - 
 - 🌱 I’m currently learning:
-- 1. C#, OOP in C# and DSA in C# ✔
+- 1. C#, OOP in C# and DSA in C#
 - 2. Git & GitHub ✔
 - 3. Unity Game Engine 🔎
 - 4. Powershell 🔎
