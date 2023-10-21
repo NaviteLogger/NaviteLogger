@@ -11,7 +11,8 @@
 - 5. Fetch API ✔
 - 6. Networking and Website Security ✔
 - 7. C# ✔
-- 8. Unity Game Engine
+- 8. Python
+- 9. Flask
 - 
 - 💞️ I’m looking to collaborate on video game projects
 - 
