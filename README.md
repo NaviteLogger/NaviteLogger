@@ -13,6 +13,7 @@
 - 7. C# ✔
 - 8. Python
 - 9. Flask
+- 10. C++
 - 
 - 💞️ I’m looking to collaborate on video game projects
 - 
