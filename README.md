@@ -11,18 +11,18 @@ Welcome to my GitHub profile! I'm passionate about pushing the boundaries of new
 
 ## 🌱 I’m currently learning
 
-- [x] HTML5, CSS3, JavaScript
+- [x] Front-end technologies: HTML5, CSS3, JavaScript, React
 - [x] Git & GitHub
 - [x] Linux Bash
-- [x] SQL (MySQL 8.0)
-- [x] Node.js, Express.js
+- [x] SQL (MySQL 8.0, PostgreSQL)
+- [x] JavaScript-based back-end technologies: Node.js, Express.js
 - [x] Fetch API
 - [x] Networking and Website Security
 - [x] C#
-- [ ] Python
-- [ ] Flask
+- [x] ASP.NET Core
+- [x] Python
+- [x] Flask
 - [ ] C++
-- [ ] React (currently focusing on this)
 
 ## 💞️ Collaboration
 
