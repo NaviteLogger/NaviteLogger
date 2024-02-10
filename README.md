@@ -1,29 +1,38 @@
-- 👋 Hi, I’m @NaviteLogger
-- 
-- 👀 I’m interested in new video game technologies , AI and Website development
-- 
-- 🌱 I’m currently learning:
-- 1. HTML5, CSS3, JavaScript ✔
-- 2. Git & GitHub ✔
-- 3. Linux Bash ✔
-- 3. SQL ( MySQL 8.0 ) ✔
-- 4. Node.js, Express.js ✔
-- 5. Fetch API ✔
-- 6. Networking and Website Security ✔
-- 7. C# ✔
-- 8. Python
-- 9. Flask
-- 10. C++
-- 
-- 💞️ I’m looking to collaborate on video game projects
-- 
-- 📫 How to reach me:
-- 📩: kacprzakmarek92@gmail.com 
-- 💬: www.linkedin.com/in/marek-kacprzak-238053218/
+# 👋 Hi, I’m @NaviteLogger
 
+Welcome to my GitHub profile! I'm passionate about pushing the boundaries of new video game technologies, AI, and website development. I create project to broaden my horizons and solve real-world problems.
 
+## 👀 Interests
 
-<!---
-NaviteLogger/NaviteLogger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- New video game technologies
+- Artificial Intelligence
+- Website development
+- Mind-blowing project that will change the way we live
+
+## 🌱 I’m currently learning
+
+- [x] HTML5, CSS3, JavaScript
+- [x] Git & GitHub
+- [x] Linux Bash
+- [x] SQL (MySQL 8.0)
+- [x] Node.js, Express.js
+- [x] Fetch API
+- [x] Networking and Website Security
+- [x] C#
+- [ ] Python
+- [ ] Flask
+- [ ] C++
+- [ ] React (currently focusing on this)
+
+## 💞️ Collaboration
+
+I’m looking to collaborate on video game projects. If you're working on something exciting, let's connect and see how we can work together!
+
+## 📫 How to reach me
+
+- 📩 Email: kacprzakmarek92@gmail.com
+- 💬 LinkedIn: [Marek Kacprzak](www.linkedin.com/in/marek-kacprzak-238053218/)
+
+---
+
+NaviteLogger/NaviteLogger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. You can click the Preview link to take a look at your changes.
