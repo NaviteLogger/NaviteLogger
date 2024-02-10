@@ -32,7 +32,3 @@ I’m looking to collaborate on video game projects. If you're working on someth
 
 - 📩 Email: kacprzakmarek92@gmail.com
 - 💬 LinkedIn: [Marek Kacprzak](www.linkedin.com/in/marek-kacprzak-238053218/)
-
-```
-NaviteLogger/NaviteLogger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. You can click the Preview link to take a look at your changes.
-```
