@@ -33,4 +33,4 @@ I’m looking to collaborate on video game projects. If you're working on someth
 - 📩 Email: kacprzakmarek92@gmail.com
 - 💬 LinkedIn: [Marek Kacprzak](www.linkedin.com/in/marek-kacprzak-238053218/)
 
-## I am not IN THE TEAM, SKYLER, I AM THE TEAM
+## I am not in the team, Skyler, I am the team
