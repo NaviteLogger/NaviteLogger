@@ -24,6 +24,8 @@ Welcome to my GitHub profile! I'm passionate about pushing the boundaries of new
 - [x] Flask
 - [ ] C++
 
+- [ ] Project Management
+
 ## 💞️ Collaboration
 
 I’m looking to collaborate on video game projects. If you're working on something exciting, let's connect and see how we can work together!
