@@ -2,7 +2,7 @@
 🔭 I’m currently working @ OSEC sp. z o.o. as a Project Manager and Backend Engineer<br>👯 I’m looking to collaborate on projects involving backend and database development<br>🌱 I’m currently learning Python, Go, and other backend programming technologies<br>💬 Ask me what you want to build and I will tell you how<br>⚡ Fun fact: my first professional project was before I even started university CS degree
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 - 📩 Email: kacprzakmarek92@gmail.com
 - 💬 LinkedIn: [Marek Kacprzak](www.linkedin.com/in/marek-kacprzak-238053218/)
 
