@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working @ Software Mind as a Delivery Manager <br>👯 I’m looking to collaborate on projects involving machine learning and database engineering<br>🌱 I’m currently using Python and Go programming languages with PostgreSQL, Angular front-end<br>💬 Ask me what you want to build and I will tell you how ( + I'll get you the people you need )<br>⚡ Fun fact: my first professional project was before I even started university CS degree
+🔭 I’m currently working @ IBM as a Partner Technical Specialist <br>👯 I’m looking to collaborate on projects involving machine learning <br>🌱 When building full-stack applications, I usually use FastAPI and Gin with PostgreSQL, Angular frontend styled using Tailwinds. CD/CI: GitHub Actions<br>💬 Ask me what you want to build and I will tell you how ( + I'll get you the people you need )<br>⚡ Fun fact: my first professional project was before I even started university CS degree
 
 
 # 🌐 Socials:
