@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working @ IBM as a Partner Technical Specialist <br>💬 Ask me what you want to build and I will tell you how ( + I'll get you the people you need )<br>⚡ Fun fact: my first professional project was before I even started university CS degree
+🔭 I’m currently working @ IBM as a Brand Technical Specialist <br>💬 Ask me what you want to build and I will tell you how ( + I'll get you the people you need )<br>⚡ Fun fact: my first professional project was before I even started university CS degree
 
 
 # 🌐 Socials:
