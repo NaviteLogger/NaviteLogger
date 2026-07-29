@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=navitelogger" alt="navitelogger" /></a> </p>
 
-- 🔭 I’m currently working at [IBM](as Brand Technical Specialist)
+- 🔭 I’m currently working at **IBM**
 
-- 🌱 I’m currently learning **RedHat Linux System Administration**
+- 🌱 I’m currently learning **Team management and leadership**
 
 - 🤝 Find me here: [Personal Page](https://navitelogger.com)
 
