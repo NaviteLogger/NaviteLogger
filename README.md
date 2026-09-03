@@ -13,15 +13,15 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/NaviteLogger](https://github.com/NaviteLogger)
 
-- 📝 I also write code which makes money [so I can't open-source it :D](so I can't open-source it :D)
+- 📝 I also write code which makes money **Cannot open source it**
 
-- 💬 Ask me about **Project Management**
+- 💬 Ask me about **Team leadership**
 
 - 📫 How to reach me **kacprzakmarek92@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/NaviteLogger/CV](https://github.com/NaviteLogger/CV)
 
-- ⚡ Fun fact **my first professional project was before I even started university CS degree**
+- ⚡ Fun fact **my first professional project was before I even started my CS degree**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
